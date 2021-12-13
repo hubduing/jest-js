@@ -3,6 +3,7 @@ Using jest
 ***
 git install
 
-Start test:
 ***
+Start test:
+
 npm test
